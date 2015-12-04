@@ -1,0 +1,450 @@
+body{
+	margin: 0px auto;
+}
+	a{
+		color:#5F9EA0;
+		text-decoration: none;
+	}
+	.one_top{
+		width: 1280px;
+		height: 16px;	
+		border: 1px solid none;
+	}
+	.kong{
+		width: 300px;
+		height: 20px;
+		margin-top: 5px;
+		border: 1px solid none;
+		margin-left: 60px;
+		font-size: 10px;
+		line-height: 20px;
+		color: #3F729B;
+	}
+	
+	.two_top{
+		width: 1280px;
+		height: 194px;
+	}
+	.head{
+		width: 1280px;
+		height: 90px;
+		border: 1px solid none;
+		background-color: whitesmoke;
+		background-color: #0B5C9A;
+	}
+	.head_first{
+		width: 800px;
+		height: 60px;
+		border: 1px solid none;
+		float: right;
+		margin-right: 60px;
+		margin-top: 30px;
+	}
+	.head_first ul li{
+		width: 150px;
+		height: 60px;
+		border: 1px solid none;
+		float: left;
+		list-style-type: none;
+		line-height: 60px;
+		text-align: center;
+		margin-top: -18px;
+	}
+	.head_first ul li a{
+		color: #4DBCCB;
+		text-decoration: none;
+	}
+	.head_first ul li a:hover{
+		color: white;
+	}
+	.head_second{
+		width: 90px;
+		height: 90px;
+		border: 1px solid none;
+		margin-left: 60px;
+		margin-top: 10px;
+	}
+	/*主页头部结束*/
+.center_one{				/*中间第一个框架*/
+	height: 680px;
+	width: 1280px;
+	border: 1px black none;
+	margin-top: 0px;
+	margin-top: 0px;
+	
+}
+	.one_left{			/*第一个框架的左边*/
+		float: left;
+		height: 680px;
+		width: 640px;
+		border: 1px black none;
+	}
+	.one_right{			/*第一个框架的右边*/
+		float: left;
+		height: 680px;
+		width: 640px;
+		border: 1px black none;
+		background-color: #f5f5f5;
+	}
+		.one_right_one{
+			width: 300px;
+			height: 30px;
+			border: 1px solid none;
+			margin-left: 100px;
+			margin-top: 50px;
+			color: #5F9EA0;
+			font-size: 30px;
+		}
+		.one_right_two{
+			width: 300px;
+			height: 100px;
+			border: 1px solid none;
+			margin-left: 100px;
+			margin-top: 40px;
+			line-height: 25px;
+		}
+		.one_right_three{
+			width: 300px;
+			height: 30px;
+			border: 1px solid none;
+			margin-left: 100px;
+			margin-top: 80px;
+			color: #5F9EA0;
+			font-size: 30px;
+		}
+		.one_right_fore{
+			width: 300px;
+			height: 100px;
+			border: 1px solid none;
+			margin-left: 100px;
+			margin-top: 50px;
+			line-height: 25px;
+		}
+		.one_right_five{
+			width: 300px;
+			height: 30px;
+			border: 1px solid none;
+			margin-left: 100px;
+			margin-top: 30px;
+			color: #5F9EA0;
+			font-size: 30px;
+		}
+		.one_right_six{
+			width: 300px;
+			height: 100px;
+			border: 1px solid none;
+			margin-left: 100px;
+			margin-top: 50px;
+			color: #5F9EA0;
+		}
+		.two_right_one{
+			width: 300px;
+			height: 30px;
+			border: 1px solid none;
+			margin-left: 100px;
+			margin-top: 50px;
+			color: #5F9EA0;
+			font-size: 30px;
+		}
+		.two_right_two{
+			width: 300px;
+			height: 100px;
+			border: 1px solid none;
+			margin-left: 100px;
+			margin-top: 40px;
+			line-height: 25px;
+		}
+		.two_right_three{
+			width: 300px;
+			height: 30px;
+			border: 1px solid none;
+			margin-left: 100px;
+			margin-top: 130px;
+			color: #5F9EA0;
+			font-size: 30px;
+			line-height: 30px;
+		}
+		.two_right_fore{
+			width: 300px;
+			height: 100px;
+			border: 1px solid none;
+			margin-left: 100px;
+			margin-top: 60px;
+			line-height: 25px;
+		}
+		.two_right_five{
+			width: 300px;
+			height: 30px;
+			border: 1px solid none;
+			margin-left: 100px;
+			margin-top: 20px;
+			color: #5F9EA0;
+			font-size: 30px;
+		}
+		.two_right_six{
+			width: 300px;
+			height: 100px;
+			border: 1px solid none;
+			margin-left: 100px;
+			margin-top: 20px;
+			color: #5F9EA0;
+		}
+		.three_right_one{
+			width: 300px;
+			height: 30px;
+			border: 1px solid none;
+			margin-left: 100px;
+			margin-top: 50px;
+			color: #5F9EA0;
+			font-size: 30px;
+		}
+		.three_right_two{
+			width: 300px;
+			height: 100px;
+			border: 1px solid none;
+			margin-left: 100px;
+			margin-top: 60px;
+			line-height: 25px;
+		}
+		.three_right_three{
+			width: 300px;
+			height: 30px;
+			border: 1px solid none;
+			margin-left: 100px;
+			margin-top: 130px;
+			color: #5F9EA0;
+			font-size: 30px;
+			line-height: 30px;
+		}
+		.three_right_fore{
+			width: 300px;
+			height: 100px;
+			border: 1px solid none;
+			margin-left: 100px;
+			margin-top: 30px;
+			line-height: 25px;
+		}
+		.three_right_five{
+			width: 300px;
+			height: 30px;
+			border: 1px solid none;
+			margin-left: 100px;
+			margin-top: 20px;
+			color: #5F9EA0;
+			font-size: 30px;
+		}
+		.three_right_six{
+			width: 300px;
+			height: 100px;
+			border: 1px solid none;
+			margin-left: 100px;
+			margin-top: 20px;
+			color: #5F9EA0;
+		}
+		.fore_right_one{
+			width: 300px;
+			height: 30px;
+			border: 1px solid none;
+			margin-left: 100px;
+			margin-top: 50px;
+			color: #5F9EA0;
+			font-size: 30px;
+		}
+		.fore_right_two{
+			width: 300px;
+			height: 100px;
+			border: 1px solid none;
+			margin-left: 100px;
+			margin-top: 70px;
+			line-height: 25px;
+		}
+		.fore_right_three{
+			width: 300px;
+			height: 30px;
+			border: 1px solid none;
+			margin-left: 100px;
+			margin-top: 70px;
+			color: #5F9EA0;
+			font-size: 30px;
+		}
+		.fore_right_fore{
+			width: 300px;
+			height: 100px;
+			border: 1px solid none;
+			margin-left: 100px;
+			margin-top: 50px;
+			line-height: 25px;
+		}
+		.fore_right_five{
+			width: 300px;
+			height: 30px;
+			border: 1px solid none;
+			margin-left: 100px;
+			margin-top: 50px;
+			color: #5F9EA0;
+			font-size: 30px;
+		}
+		.fore_right_six{
+			width: 300px;
+			height: 100px;
+			border: 1px solid none;
+			margin-left: 100px;
+			margin-top: 30px;
+			color: #5F9EA0;
+		}
+.center_two{				/*中间第二个框架*/
+	height: 680px;
+	width: 1280px;
+	border: 1px black none;
+	margin-top: 0px;
+}
+	.two_left{			/*第二个框架的左边*/
+		float: left;
+		height: 680px;
+		width: 640px;
+		border: 1px black none;
+		background-color: #f5f5f5;
+	}
+	.two_right{			/*第二个框架的右边*/
+		float: left;
+		height: 680px;
+		width: 640px;
+		border: 1px black none;
+	}
+.center_three{				/*中间第三个框架*/
+	height: 680px;
+	width: 1280px;
+	border: 1px black none;
+	margin-top: 0px;
+}
+	.three_left{			/*第三个框架的左边*/
+		float: left;
+		height: 680px;
+		width: 640px;
+		border: 1px black none;
+	}
+	.three_right{			/*第三个框架的右边*/
+		float: left;
+		height: 680px;
+		width: 640px;
+		border: 1px black none;
+		background-color: #f5f5f5;
+	}
+.center_fore{				/*中间第三个框架*/
+	height: 680px;
+	width: 1280px;
+	border: 1px black none;
+	margin-top: 0px;
+	
+}
+	.fore_left{			/*第四个框架的左边*/
+		float: left;
+		height: 680px;
+		width: 640px;
+		border: 1px black none;
+		background-color: #f5f5f5;
+	}
+	.fore_right{			/*第四个框架的右边*/
+		float: left;
+		height: 680px;
+		width: 640px;
+		border: 1px black none;
+	}
+	.this_end{
+	width: 1280px;
+	height: 270px;
+	border: 1px solid none;
+	background-color:whitesmoke;
+}
+		.this_end_top{
+			width:1280px ;
+			height: 100px;
+			border: 1px solid none;
+			float: left;
+			margin-top: 20px;
+		}
+			.this_end_top_one{
+				width: 100px;
+				height: 30px;
+				border: 1px solid none;
+				line-height: 30px;
+				margin-top: 10px;
+				margin-left: 300px;
+				color: #0B5C9A;
+			}
+			.this_end_top_two{
+				width: 700px;
+				height: 30px;
+				border-top: 2px solid cornflowerblue;
+				line-height: 30px;
+				margin-top: 10px;
+				margin-left: 300px;
+			}
+		.this_end_center{
+			width:1280px ;
+			height: 35px;
+			border: 1px solid none;
+			float: left;
+			margin-top: 10px;
+			background-color: #707070;
+		}
+			.this_end_center_font{
+				text-align: center;
+				line-height: 40px;
+				color: #F5F5F5;
+				font-size: 12px;
+			}
+			.this_end_center_font a{
+				color: white;
+			}
+		.this_end_bottom{
+			width:1280px ;
+			height: 90px;
+			border: 1px solid none;
+			float: left;
+			margin-top: 0px;
+			background-color:#ebebeb;
+		}
+		.kuanjia{
+			width: 400px;
+			height: 80px;
+			border: 1px solid none;
+			float: left;
+			margin-left: 440px;
+			margin-top: 8px;
+		}
+		.this_end_bottom_one{
+				width: 380px;
+				height: 20px;
+				border: 1px solid none;
+				float: left;
+				font-size: 10px;
+				color: #5F9EA0;
+				margin-top: 10px;
+				text-align: center;
+			}
+			.this_end_bottom_two{
+				width: 380px;
+				height: 20px;
+				border: 1px solid none;
+				float: left;
+				font-size: 10px;
+				color: #5F9EA0;
+				text-align: center;
+			}
+			.this_end_bottom_three{
+				width: 380px;
+				height: 20px;
+				border: 1px solid none;
+				float: left;
+				font-size: 10px;
+				color: #5F9EA0;
+				text-align: center;
+			}
+			
+
+	
+
+
+	 	
+		
